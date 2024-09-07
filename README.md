@@ -10,7 +10,7 @@ This is a project created using Laravel 11. NutriHealth is an informative websit
 - PHP >= 8.1
 
 ## Installation
-- Clone the repository
+- Clone the repository</br>
 git clone https://github.com/Daarns/NutriHealth.git</br>
 cd NutriHealth
 
