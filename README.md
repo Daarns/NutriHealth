@@ -8,3 +8,19 @@ This is a project created using Laravel 11. NutriHealth is an informative websit
 - Composer
 - MySQL or PostgreSQL ( other database supported by laravel)
 - PHP >= 8.1
+
+## Installation
+- Clone the repository
+git clone https://github.com/Daarns/NutriHealth.git
+cd NutriHealth
+
+- Install PHP dependencies using composer
+composer install
+
+## Environment Variables
+Copy .env.example to .env: </br>
+Set the environment variables in the .env file to match your setup.
+
+## Running The Application
+Open terminal and write "php artisan serve"
+Open the application in ur browser 
