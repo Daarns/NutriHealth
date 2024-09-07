@@ -22,5 +22,5 @@ Copy .env.example to .env: </br>
 Set the environment variables in the .env file to match your setup.
 
 ## Running The Application
-Open terminal and write "php artisan serve"
-Open the application in ur browser 
+Open terminal and write "php artisan serve". </br>
+Open the application in ur browser. </br>
