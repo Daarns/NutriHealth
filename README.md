@@ -11,7 +11,7 @@ This is a project created using Laravel 11. NutriHealth is an informative websit
 
 ## Installation
 - Clone the repository
-git clone https://github.com/Daarns/NutriHealth.git
+git clone https://github.com/Daarns/NutriHealth.git</br>
 cd NutriHealth
 
 - Install PHP dependencies using composer
