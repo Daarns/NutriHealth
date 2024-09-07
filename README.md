@@ -8,6 +8,7 @@ This is a project created using Laravel 11. NutriHealth is an informative websit
 - Composer
 - MySQL or PostgreSQL ( other database supported by laravel)
 - PHP >= 8.1
+- Arduino IDE (For Code check the second branch)
 
 ## Installation
 - Clone the repository</br>
